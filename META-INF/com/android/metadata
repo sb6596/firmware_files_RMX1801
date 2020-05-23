@@ -1,0 +1,13 @@
+android_version=10
+google_patch=20200505
+os_version=V7
+ota-id=RMX1801EX_11.F.06_2060_202005140209
+ota-property-files=metadata:69:320         
+ota-required-cache=0
+ota-type=BLOCK
+ota_version=RMX1801EX_11.F.06_2060_202005140209
+patch_type=1
+post-timestamp=1589394940
+pre-device=18321
+version_name=RMX1801EX_11_F.06
+wipe=0
